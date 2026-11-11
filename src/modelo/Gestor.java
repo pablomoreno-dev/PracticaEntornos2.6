@@ -8,6 +8,8 @@ package modelo;
  *
  * @author violi
  */
+
+// Modificación realizada en la rama nueva-funcionalidad
 public class Gestor {
     private String usuario;
     private String pass;
